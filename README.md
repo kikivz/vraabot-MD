@@ -7,7 +7,7 @@ Script WhatsApp Bot Multi Device
 This Script is for everyone, not for Sale
 
 <p align="center">
-	<img src="https://telegra.ph/file/695d8d1ddb483aaf9a79e.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://telegra.ph/file/a7aa3c8bd1876ed1d0700.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">vraabot-MD</h1>
 
