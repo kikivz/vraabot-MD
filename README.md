@@ -16,7 +16,7 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 ## My Project
 
 
-WhatsApp Bot Multi Device [`kikiivz/vraabot-MD`](https://github.com/kikiivz/vraabot-MD)
+WhatsApp Bot Multi Device [`kikivz/vraabot-MD`](https://github.com/kikiivz/vraabot-MD)
 
 
 
@@ -63,6 +63,7 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 * [`DikaArdnt`](https://github.com/DikaArdnt)
+* [`ZeeoneOfc`](https:/github.com/zeone-ofc)
 * [`saya`](https://github.com/kikiivz)
 * [`Sanzy`](https://github.com/sanzykawaiiii)
 
@@ -70,7 +71,6 @@ License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 ## Contact me  
 * [`Wangsap`](https://wa.me/6283808840711)
-* [`Igeh`](https://instagram.com/kikollyn)
 * [`yutub`](https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ)
 
 
