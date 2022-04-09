@@ -16,7 +16,12 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 ## My Project
 
 
-WhatsApp Bot Multi Device [`kikivz/vraabot-MD`](https://github.com/kikiivz/vraabot-MD)
+WhatsApp Bot Multi Device [`kikivz/vraabot-MD`](https://github.com/kikivz/vraabot-MD)
+
+## Contact me 🧸
+* [`Wangsap`](https://wa.me/6283808840711)
+* [`Igeh`](https://instagram.com/kikollyn)
+* [`yutub`](https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ)
 
 
 
@@ -35,8 +40,8 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/kikiivz/kikibot-Md
-cd kikibot-Md
+termux-setup-storage 
+cd vraabot-MD-master
 npm install
 ```
 
@@ -63,14 +68,12 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 * [`DikaArdnt`](https://github.com/DikaArdnt)
-* [`ZeeoneOfc`](https:/github.com/zeone-ofc)
-* [`saya`](https://github.com/kikiivz)
+* [`https://github.com/zeeone-ofc)
+* [`kiki vz`](https://github.com/kikiivz)
 * [`Sanzy`](https://github.com/sanzykawaiiii)
+* [`RiychDwayne`](https://github.com/riychdwayne)
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
-## Contact me  
-* [`Wangsap`](https://wa.me/6283808840711)
-* [`yutub`](https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ)
 
 
