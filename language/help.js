@@ -3,9 +3,20 @@
 
 // Menu
 exports.menu = (salam, pushname) =>{
-	return`*Hai hihi👋 *i'm vraabot-MD This bot is a WhatsApp multi device Beta. if you find a bug or error, please forgive me, report it to the cerator so that it will be fixed immediately*🙏  
+	return`hai kak👋^_^ saya vraabot-MD
+
+⎙ jika ada bug atau eror silahkan hubungi owner biar segera di fix
+✆ wa.me/6283808840711
+
+*⊹ 🧚🏻‍♀️  ̖́- silahkan baca peraturan dulu sebelum memakai bot.*
+
+*-Note ꢁ*
+*֗ ៵ ⌗: beri jeda 5-10 detik*
+*֗ ៵ ⌗: no sepam bot*
+*֗ ៵ ⌗: no telepon / vc*
 `
-}
+} 
+
 
 // All Menu
 exports.allmenu = (prefix) => {
