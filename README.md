@@ -69,7 +69,7 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 * [`DikaArdnt`](https://github.com/DikaArdnt)
 * [`Zeeone Ofc`](https://github.com/zeeone-ofc)
-* [`kiki vz`](https://github.com/kikiivz)
+* [`kiki vz`](https://github.com/kikivz)
 * [`Sanzy`](https://github.com/sanzykawaiiii)
 * [`RiychDwayne`](https://github.com/riychdwayne)
 
