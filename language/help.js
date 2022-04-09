@@ -3,7 +3,7 @@
 
 // Menu
 exports.menu = (salam, pushname) =>{
-	return`hai kak👋^_^ saya vraabot-MD
+	return`hai kak👋^_^
 
 ⎙ jika ada bug atau eror silahkan hubungi owner biar segera di fix
 ✆ wa.me/6283808840711
