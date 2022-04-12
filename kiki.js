@@ -2605,7 +2605,7 @@ case 'thanksto':
 await kiki.send5ButImg(from, `` + '' + lang.thanksto(), `© ${footer}`,thumb, [{"urlButton": {"displayText": "Source Code","url": `${sc}`}},{"urlButton": {"displayText": "YouTube Cerator","url": `${myweb}`}},{"quickReplyButton": {"displayText": "Donasi","id": 'donate'}},{"quickReplyButton": {"displayText": "Back List","id": 'command'}}] )
 break
 case 'donasi': case 'buypremium': case 'donate': {
-                kiki.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/80c0f2b966ab66f70337d.jpg' }, caption: `*Hai Kak ${m.pushName}*seberapa donasi kamu akan saya tanggung terimakasih 🙏🏻` }) 
+                kiki.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/d902313cf651f7013f97f.jpg' }, caption: `Hai Kak ${m.pushName}seberapa donasi kamu akan saya tanggung terimakasih 🙏🏻` }) 
     }
 	break
     case 'grupowner':
