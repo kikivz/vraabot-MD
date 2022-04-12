@@ -12,7 +12,7 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapi.xyz': 'sanzychan01',//apikey lu
+	'https://zenzapi.xyz': '335287f0116',//apikey lu
 }
 
 // Owner
