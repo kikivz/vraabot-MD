@@ -16,13 +16,13 @@ global.APIKeys = {
 }
 
 // Owner
-global.owner = ['6283808840711','6283808840711','6283808840711']
-global.ownernomer = '6283808840711'
-global.premium = ['6283808840711']
-global.ownername = 'KIKI VZ'
-global.botname = 'VraaBotz'
+global.owner = ['6285895873474','6285895873474','6285895873474']
+global.ownernomer = '6285895873474'
+global.premium = ['6285895873474']
+global.ownername = 'BIMO B4U'
+global.botname = 'NANATBotz'
 global.footer = '2022 - kiki vz ><'
-global.email = 'vraakeren@gmail.com'
+global.email = 'ytbimogeming@gmail.com'
 global.ig = 'https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ'
 global.region = 'jepang'// bebas
 
@@ -31,7 +31,7 @@ global.myweb = 'https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ'
 global.sc = 'https://github.com/kikivz/vraabot-MD'
 global.grupowner ='https://chat.whatsapp.com/JOxS05d1WWO529F40SEVEa'// GRUP LU 
 // Wm
-global.packname = 'kiki'//BEBAS
+global.packname = 'BIMO'//BEBAS
 global.author = 'vz'
 
 // Thumb & Image random
