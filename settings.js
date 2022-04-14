@@ -16,12 +16,12 @@ global.APIKeys = {
 }
 
 // Owner
-global.owner = ['6283808840711','6283808840711','6283808840711']
-global.ownernomer = '6283808840711'
-global.premium = ['6283808840711']
+global.owner = ['6282115946480','6282115946480','6282115946480']
+global.ownernomer = '6282115946480 '
+global.premium = ['6282115946480']
 global.ownername = 'KIKI VZ'
 global.botname = 'VraaBotz'
-global.footer = '2022 - kiki vz ><'
+global.footer = 'cerated by kiki vz'
 global.email = 'vraakeren@gmail.com'
 global.ig = 'https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ'
 global.region = 'jepang'// bebas
