@@ -1,7 +1,26 @@
 /* ubah kalau mau // bebas // kalau eror tanggung sendiri dek
 */
+const moment = require("moment-timezone");
+const fs = require("fs");
 
-// Menu
+moment.tz.setDefault("Asia/Jakarta").locale("id");
+
+let dt = moment(Date.now()).tz('Asia/Jakarta').locale('id').format('a')
+const ucapanWaktu = "Selamat "+dt.charAt(0).toUpperCase() + dt.slice(1)
+let setting = JSON.parse(fs.readFileSync('./config.json'))
+const { getLimit, getBalance, cekGLimit } = require("../lib/limit")
+
+const more = String.fromCharCode(8206)
+const readmore = more.repeat(4001)
+
+function toCommas(x) {
+	x = x.toString()
+	var pattern = /(-?\d+)(\d{3})/;
+     while (pattern.test(x))
+	   x = x.replace(pattern, "$1,$2");
+	return x;
+}
+
 exports.menu = (sender, prefix, pushname, isOwner, isPremium, balance, limit, limitCount, glimit, gcount) => {
 	return `*── 「 ${setting.botName} - MD Beta 」 ──*
 	
