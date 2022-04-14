@@ -2,18 +2,20 @@
 */
 
 // Menu
-exports.menu = (salam, pushname) =>{
-	return`hai kak👋^_^
+exports.menu = (sender, prefix, pushname, isOwner, isPremium, balance, limit, limitCount, glimit, gcount) => {
+	return `*── 「 ${setting.botName} - MD Beta 」 ──*
+	
+  _*${ucapanWaktu} ${pushname !== undefined ? pushname : 'Kak'}*_
 
-⎙ jika ada bug atau eror silahkan hubungi owner biar segera di fix
-✆ wa.me/6283808840711
+    Library : *Baileys-MD*.
+    Prefix : ( ${prefix} )
+    Tanggal Server : ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}
+    Waktu Server : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}
 
-*⊹ 🧚🏻‍♀️  ̖́- silahkan baca peraturan dulu sebelum memakai bot.*
-
-*-Note ꢁ*
-*֗ ៵ ⌗: beri jeda 5-10 detik*
-*֗ ៵ ⌗: no sepam bot*
-*֗ ៵ ⌗: no telepon / vc*
+	Status : ${isOwner ? 'Owner' : isPremium ? 'Premium' : 'Free'}
+	Limit Harian : ${isOwner ? '-' : isPremium ? 'Unlimited' : getLimit(sender, limitCount, limit)}
+	Limit Game : ${isOwner ? '-' : cekGLimit(sender, gcount, glimit)}
+	Balance : $${toCommas(getBalance(sender, balance))}
 `
 } 
 
