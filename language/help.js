@@ -3,17 +3,20 @@
 
 // Menu
 exports.menu = (salam, pushname) =>{
-	return`hai kak👋 saya vraabot-MD
+	return`hai kak👋 selamat malam🌚
+>maap di dunia bot gada pagi ataupun siang dan sore 🗿<
+	
+saya vraabot-MD
 bot ini adalah bot multi device jika ada bug mohon di maklumi ya kak🙏🏻
  
 
 「 INFO BOT 」 ꢁ
-֗ ៵ ⬡ ꢁ Lib* : baileys md
-֗ ៵ ⬡ ꢁ prefix* : !./$#&@?
-֗ ៵ ⬡ ꢁ nama bot* : vraabot-MD
-֗ ៵ ⬡ ꢁ nama owner* : kiki vz.
+֗ ៵🔖 ⬡ ꢁ Lib : baileys md
+֗ ៵🔖 ⬡ ꢁ prefix : !./$#&@?
+֗ ៵🔖 ⬡ ꢁ nama bot : vraabot-MD
+֗ ៵🔖 ⬡ ꢁ nama owner : kiki vz.
 
->selamat menunaikan ibadah puasa<
+
 `
 } 
 
