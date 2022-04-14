@@ -3,20 +3,16 @@
 
 // Menu
 exports.menu = (salam, pushname) =>{
-	return`hai kak👋 selamat malam🌚
->maap di dunia bot gada pagi ataupun siang dan sore 🗿<
-	
-saya vraabot-MD
-bot ini adalah bot multi device jika ada bug mohon di maklumi ya kak🙏🏻
- 
+	return`hai kak👋 
 
-「 INFO BOT 」 ꢁ
-֗ ៵🔖 ⬡ ꢁ Lib : baileys md
-֗ ៵🔖 ⬡ ꢁ prefix : !./$#&@?
-֗ ៵🔖 ⬡ ꢁ nama bot : vraabot-MD
-֗ ៵🔖 ⬡ ꢁ nama owner : kiki vz.
+Silahkan pilih button di bawah🪐
 
+> list menu untuk menampilakn list menu
 
+> allmenu untuk menampilkan semua menu
+
+Contak me owner number
+Wa.me/+6282115946480
 `
 } 
 
