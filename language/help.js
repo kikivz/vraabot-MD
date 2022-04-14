@@ -3,15 +3,13 @@
 
 // Menu
 exports.menu = (salam, pushname) =>{
-	return`hai kak👋 
-
-Silahkan pilih button di bawah🪐
+	return`🪐 
 
 > list menu untuk menampilakn list menu
 
 > allmenu untuk menampilkan semua menu
 
-Contak me owner number
+Contak owner number
 Wa.me/+6282115946480
 `
 } 
