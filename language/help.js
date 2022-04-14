@@ -1,40 +1,19 @@
 /* ubah kalau mau // bebas // kalau eror tanggung sendiri dek
 */
-const moment = require("moment-timezone");
-const fs = require("fs");
 
-moment.tz.setDefault("Asia/Jakarta").locale("id");
+// Menu
+exports.menu = (salam, pushname) =>{
+	return`hai kak👋 saya vraabot-MD
+bot ini adalah bot multi device jika ada bug mohon di maklumi ya kak🙏🏻
+ 
 
-let dt = moment(Date.now()).tz('Asia/Jakarta').locale('id').format('a')
-const ucapanWaktu = "Selamat "+dt.charAt(0).toUpperCase() + dt.slice(1)
-let setting = JSON.parse(fs.readFileSync('./config.json'))
-const { getLimit, getBalance, cekGLimit } = require("../lib/limit")
+「 INFO BOT 」 ꢁ
+֗ ៵ ⬡ ꢁ Lib* : baileys md
+֗ ៵ ⬡ ꢁ prefix* : !./$#&@?
+֗ ៵ ⬡ ꢁ nama bot* : vraabot-MD
+֗ ៵ ⬡ ꢁ nama owner* : kiki vz.
 
-const more = String.fromCharCode(8206)
-const readmore = more.repeat(4001)
-
-function toCommas(x) {
-	x = x.toString()
-	var pattern = /(-?\d+)(\d{3})/;
-     while (pattern.test(x))
-	   x = x.replace(pattern, "$1,$2");
-	return x;
-}
-
-exports.menu = (sender, prefix, pushname, isOwner, isPremium, balance, limit, limitCount, glimit, gcount) => {
-	return `*── 「 ${setting.botName} - MD Beta 」 ──*
-	
-  _*${ucapanWaktu} ${pushname !== undefined ? pushname : 'Kak'}*_
-
-    Library : *Baileys-MD*.
-    Prefix : ( ${prefix} )
-    Tanggal Server : ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}
-    Waktu Server : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}
-
-	Status : ${isOwner ? 'Owner' : isPremium ? 'Premium' : 'Free'}
-	Limit Harian : ${isOwner ? '-' : isPremium ? 'Unlimited' : getLimit(sender, limitCount, limit)}
-	Limit Game : ${isOwner ? '-' : cekGLimit(sender, gcount, glimit)}
-	Balance : $${toCommas(getBalance(sender, balance))}
+>selamat menunaikan ibadah puasa<
 `
 } 
 
