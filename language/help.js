@@ -13,8 +13,8 @@ bot ini adalah bot multi device jika ada bug mohon di maklumi ya kak🙏🏻
 「 INFO BOT 」 ꢁ
 ֗ ៵🔖 ⬡ ꢁ Lib : baileys md
 ֗ ៵🔖 ⬡ ꢁ prefix : !./$#&@?
-֗ ៵🔖 ⬡ ꢁ nama bot : vraabot-MD
-֗ ៵🔖 ⬡ ꢁ nama owner : kiki vz.
+֗ ៵🔖 ⬡ ꢁ nama bot : NANAT-BOTZ
+֗ ៵🔖 ⬡ ꢁ nama owner : BIMO B4U.
 
 
 `
@@ -345,7 +345,7 @@ exports.sewabot  = (ownernomer) => {
 └───────
 
 Contact person Owner :
-wa.me/6283808840711
+wa.me/6285895873474
 `
 }
 
